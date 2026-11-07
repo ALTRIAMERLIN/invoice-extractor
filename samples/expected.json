@@ -1,0 +1,65 @@
+[
+  {
+    "file": "invoice-layout-1-USD.pdf",
+    "expected": {
+      "supplier": "Northstar Demo Studio",
+      "invoice_number": "00011",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1025.00",
+      "tax": "102.50",
+      "total": "1127.50",
+      "currency": "USD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-2-EUR.pdf",
+    "expected": {
+      "supplier": "Cedar Example Services",
+      "invoice_number": "00022",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1060.00",
+      "tax": "106.00",
+      "total": "1166.00",
+      "currency": "EUR"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-3-HKD.pdf",
+    "expected": {
+      "supplier": "Harbor Sample Supply",
+      "invoice_number": "00034",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1105.00",
+      "tax": "110.50",
+      "total": "1215.50",
+      "currency": "HKD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 2,
+      "tax": 2,
+      "total": 2,
+      "currency": 2
+    }
+  }
+]

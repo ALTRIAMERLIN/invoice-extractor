@@ -1,0 +1,317 @@
+[
+  {
+    "file": "invoice-layout-1-USD.pdf",
+    "expected": {
+      "supplier": "Northstar Demo Studio",
+      "invoice_number": "00011",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1025.00",
+      "tax": "102.50",
+      "total": "1127.50",
+      "currency": "USD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-1-EUR.pdf",
+    "expected": {
+      "supplier": "Northstar Demo Studio",
+      "invoice_number": "00012",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1035.00",
+      "tax": "103.50",
+      "total": "1138.50",
+      "currency": "EUR"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-1-GBP.pdf",
+    "expected": {
+      "supplier": "Northstar Demo Studio",
+      "invoice_number": "00013",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1045.00",
+      "tax": "104.50",
+      "total": "1149.50",
+      "currency": "GBP"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-1-HKD.pdf",
+    "expected": {
+      "supplier": "Northstar Demo Studio",
+      "invoice_number": "00014",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1055.00",
+      "tax": "105.50",
+      "total": "1160.50",
+      "currency": "HKD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-1-CNY.pdf",
+    "expected": {
+      "supplier": "Northstar Demo Studio",
+      "invoice_number": "00015",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1065.00",
+      "tax": "106.50",
+      "total": "1171.50",
+      "currency": "CNY"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-2-USD.pdf",
+    "expected": {
+      "supplier": "Cedar Example Services",
+      "invoice_number": "00021",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1050.00",
+      "tax": "105.00",
+      "total": "1155.00",
+      "currency": "USD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-2-EUR.pdf",
+    "expected": {
+      "supplier": "Cedar Example Services",
+      "invoice_number": "00022",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1060.00",
+      "tax": "106.00",
+      "total": "1166.00",
+      "currency": "EUR"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-2-GBP.pdf",
+    "expected": {
+      "supplier": "Cedar Example Services",
+      "invoice_number": "00023",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1070.00",
+      "tax": "107.00",
+      "total": "1177.00",
+      "currency": "GBP"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-2-HKD.pdf",
+    "expected": {
+      "supplier": "Cedar Example Services",
+      "invoice_number": "00024",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1080.00",
+      "tax": "108.00",
+      "total": "1188.00",
+      "currency": "HKD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-2-CNY.pdf",
+    "expected": {
+      "supplier": "Cedar Example Services",
+      "invoice_number": "00025",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1090.00",
+      "tax": "109.00",
+      "total": "1199.00",
+      "currency": "CNY"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 1,
+      "tax": 1,
+      "total": 1,
+      "currency": 1
+    }
+  },
+  {
+    "file": "invoice-layout-3-USD.pdf",
+    "expected": {
+      "supplier": "Harbor Sample Supply",
+      "invoice_number": "00031",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1075.00",
+      "tax": "107.50",
+      "total": "1182.50",
+      "currency": "USD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 2,
+      "tax": 2,
+      "total": 2,
+      "currency": 2
+    }
+  },
+  {
+    "file": "invoice-layout-3-EUR.pdf",
+    "expected": {
+      "supplier": "Harbor Sample Supply",
+      "invoice_number": "00032",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1085.00",
+      "tax": "108.50",
+      "total": "1193.50",
+      "currency": "EUR"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 2,
+      "tax": 2,
+      "total": 2,
+      "currency": 2
+    }
+  },
+  {
+    "file": "invoice-layout-3-GBP.pdf",
+    "expected": {
+      "supplier": "Harbor Sample Supply",
+      "invoice_number": "00033",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1095.00",
+      "tax": "109.50",
+      "total": "1204.50",
+      "currency": "GBP"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 2,
+      "tax": 2,
+      "total": 2,
+      "currency": 2
+    }
+  },
+  {
+    "file": "invoice-layout-3-HKD.pdf",
+    "expected": {
+      "supplier": "Harbor Sample Supply",
+      "invoice_number": "00034",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1105.00",
+      "tax": "110.50",
+      "total": "1215.50",
+      "currency": "HKD"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 2,
+      "tax": 2,
+      "total": 2,
+      "currency": 2
+    }
+  },
+  {
+    "file": "invoice-layout-3-CNY.pdf",
+    "expected": {
+      "supplier": "Harbor Sample Supply",
+      "invoice_number": "00035",
+      "invoice_date": "2026-11-06",
+      "subtotal": "1115.00",
+      "tax": "111.50",
+      "total": "1226.50",
+      "currency": "CNY"
+    },
+    "pages": {
+      "supplier": 1,
+      "invoice_number": 1,
+      "invoice_date": 1,
+      "subtotal": 2,
+      "tax": 2,
+      "total": 2,
+      "currency": 2
+    }
+  }
+]

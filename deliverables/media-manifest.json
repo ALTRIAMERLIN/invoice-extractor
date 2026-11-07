@@ -1,0 +1,54 @@
+[
+  {
+    "file": "screenshot-1-batch.png",
+    "source": "c1-upload/frames/f000629.jpg",
+    "source_seconds": 9.491746,
+    "source_sha256": "4815c42205ff3730929b3ccc072d6f517d38aab460adc41bf2e3fd6ac25e904b",
+    "sha256": "a6a41fd3ec65aa06036105f013ac924f15ceb2cce3e5102d50817941a3729c51",
+    "changes": "JPEG decoded to PNG; no crop, overlays or UI pixel edits"
+  },
+  {
+    "file": "screenshot-2-review-reason.png",
+    "source": "c2c-fix/frames/f000404.jpg",
+    "source_seconds": 8.992037,
+    "source_sha256": "6289161904e5e0b8ea43a550a4fb4495443e97041514abc9390bb2a18aa1d03c",
+    "sha256": "d1d6ca0f8a3d33970b096e02006522566cd2144e125ae192b2b1d2ddde90272f",
+    "changes": "JPEG decoded to PNG; no crop, overlays or UI pixel edits"
+  },
+  {
+    "file": "screenshot-3-export.png",
+    "source": "c3-export/frames/f000768.jpg",
+    "source_seconds": 8.796696,
+    "source_sha256": "508303fc7da358ae825de54adb84d537a845eb6e9bbf8fffd5732c407845951e",
+    "sha256": "770d2d5b6efcf1104049c9c258d3a1d32ea8244e1898f3238210810fa6dade36",
+    "changes": "JPEG decoded to PNG; no crop, overlays or UI pixel edits"
+  },
+  {
+    "file": "sample-exports/invoices.xlsx",
+    "sha256": "185f3c620596a97a9ddc42f0ca8dd8efd137dd04488d79e8380d06493900ea91",
+    "source": "downloads/invoices.xlsx",
+    "changes": "Unchanged real browser download"
+  },
+  {
+    "file": "sample-exports/invoices.csv",
+    "sha256": "feb15e8b587d3ffda251566d914817538cd8709d86233422982221efe6050209",
+    "source": "downloads/invoices.csv",
+    "changes": "Unchanged real browser download"
+  },
+  {
+    "file": "cover.png",
+    "sha256": "5b8ab8cbfed01453885a031af24189bdc00a010cd99834a942fb85fd4c282515",
+    "ui_source": "screenshot-1-batch.png",
+    "ui_crop": [
+      250,
+      80,
+      1650,
+      510
+    ],
+    "size": [
+      2000,
+      1500
+    ],
+    "layout": "Prior two portfolio cover layouts; factual demo counts"
+  }
+]

@@ -1,0 +1,5 @@
+﻿record_id,filename,page_count,supplier,invoice_number,invoice_date,subtotal,tax,total,currency,processing_status,review_status,duplicate_groups,review_reason
+baac736d-0c14-4714-9486-5f0f2d74d6a7,invoice-layout-1-USD.pdf,1,Northstar Demo Studio,00011,2026-11-06,1025.00,102.50,1127.50,USD,text_ready,auto_checked,,
+5f821826-b680-4382-af58-1232c58c2058,invoice-layout-2-EUR.pdf,1,Cedar Example Services,00022,2026-11-06,1060.00,106.00,1166.00,EUR,text_ready,auto_checked,,
+6c47d4fa-4edb-46e0-959d-fb7f876ea1d6,invoice-layout-3-HKD.pdf,2,Harbor Sample Supply,00034,2026-11-06,1105.00,110.50,1215.50,HKD,text_ready,auto_checked,,
+3e0e1a90-40b1-4d70-bc5e-200fbc58f916,invoice-review-demo.pdf,1,Maple Example Workshop,00045,2026-11-06,200.00,20.00,220.00,USD,text_ready,user_confirmed,,Checked the issued-on date in the fictional source PDF; service completion is a different date.
